@@ -1,1 +1,3 @@
 .sessions/
+./trydjango/__pycache__/
+./products/__pycache__/
